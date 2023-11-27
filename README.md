@@ -1,10 +1,8 @@
-# Hello, I'm Lovely Kumari 👋
+<h1 align="center"># Hello, I'm Lovely Kumari 👋</h1>
 
-Welcome to my GitHub profile! I'm a passionate software developer from India.
+Welcome to my GitHub profile! I'm a passionate software Enthusiastic from India.
 
 ## 🔧 Technologies & Tools
-
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-JavaScript%20%7C%20React%20%7C%20Node.js%20%7C%20VSCode-0690fa)](https://stackshare.io/johndoe/my-stack)
 
 - HTML5, CSS3, JavaScript, Visual Studio Code, C, C++, Java, Python, Git & Github
 
