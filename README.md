@@ -1,4 +1,4 @@
--<h1> 👋 Hi, I’m Lovely Kumari</h1>
+-<h1 align="center"> 👋 Hi, I’m Lovely Kumari</h1>
 - 👀 I’m interested in learing new Technologies.
 - 🌱 I’m currently learning Fronted Development.
 - 💞️ I’m looking to collaborate on Projects.
