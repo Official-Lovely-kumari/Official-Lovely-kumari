@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate software Enthusiastic from India.
 
 ## 🚀 Projects
 
-- [Project 1](https://github.com/Official-Lovely-kumari/lab-css-spotify-clone/blob/master/index.html):
-- It's Spotify Clone .
+- [Project 1](https://github.com/Official-Lovely-kumari/lab-css-spotify-clone/blob/master/index.html):- It's Spotify Clone .
+
 
 ## 🎓 Education
 
@@ -33,6 +33,8 @@ Welcome to my GitHub profile! I'm a passionate software Enthusiastic from India.
 
 - I enjoy listening music .
 - Travelling and exploring new places
+   
+  ## Outside of tech I'm Animal Lover (Specially Dog Lover )
 
 <!---
 Official-Lovely-kumari/Official-Lovely-kumari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
