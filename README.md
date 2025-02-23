@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)]
 <h1 align="center">Hello 👋, I'm Lovely Kumari</h1>
-<h3 align="center">Open Source Developer @GirlScript Summer of Code</h3>
+<h3 align="center">Ex-Open Source Developer @GirlScript Summer of Code</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=official-lovely-kumari&label=Profile%20views&color=0e75b6&style=flat" alt="official-lovely-kumari" /> </p>
